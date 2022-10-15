@@ -1,4 +1,4 @@
-<h1 align="center">Computer vision and Deep learning-based Driver Assistant System using IoT</h1>
+<h1 align="center">Computer vision and Deep learning-based Drowsiness Detection System using IoT</h1>
 
 - Drowsiness detection
 
